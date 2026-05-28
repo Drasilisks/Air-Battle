@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Airbattle/Airbattle.vcxproj" Id="b65aa78a-2c92-4296-b758-3a7322de4df2" />
+</Solution>
